@@ -9,7 +9,7 @@ tags: []
 
 I'm so excited to start this journey and share my projects with you. I hope you enjoy reading my posts as much as I enjoy writing them.
 
-I'm a software engineer with an interest in IoT, critical systems and web related stuff. I love working on projects that involve physical devices, the real-time aspect of applciations and the challenges of building reliable systems. I'm also passionate about motorcycling. I started riding at 19 years old and nowadays, whenever I have free time, travelling on my motorcycle is my go-to escape. In the future I hope I can learn more about these machines so I can use my free time to become a mechanic hobbyist.
+I'm a software engineer with an interest in IoT, critical systems and web related stuff. I love working on projects that involve physical devices, the real-time aspect of applications and the challenges of building reliable systems. I'm also passionate about motorcycling. I started riding at 19 years old and nowadays, whenever I have free time, travelling on my motorcycle is my go-to escape. In the future I hope I can learn more about these machines so I can use my free time to become a mechanic hobbyist.
 
 In the next posts, I look forward to sharing my personal projects and the lessons I've learned from them, as well as some insights on the technologies I come along and other topics that I find interesting.
 

@@ -20,7 +20,4 @@ Check my posts to see some of the projects I've been working on. I'm always look
 ## Contact
 Feel free to reach out to me on my social media on the bottom right corner of the page. I'm always open to new ideas and opportunities to learn.
 
----
-
-Thanks for visiting my page!
 
