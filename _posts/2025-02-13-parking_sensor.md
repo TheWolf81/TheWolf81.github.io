@@ -3,7 +3,7 @@ title: Parking Sensor
 description: A compact breadboard project designed to explore the construction of a practical parking aid using an ultrasonic sensor, ESP32 microcontroller, buzzer, and LED for real-time proximity alerts.
 date: 2025-02-13 00:00:00 -500
 categories: [IT project]
-tags: [electronics,embedded systems]
+tags: [Electronics, Embedded Systems]
 image: /assets/parking_sensor/logo.jpg
 ---
 
