@@ -50,6 +50,11 @@ jobs:
         env:
           JEKYLL_ENV: "production"
 
+      - name: Debug
+        run: |
+          echo "base_path=${{ steps.pages.outputs.base_path }}"
+          find _site -maxdepth 2 -type d | sort
+
       - name: Test site
         run: |
           bundle exec htmlproofer _site \
