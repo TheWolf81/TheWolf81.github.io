@@ -16,17 +16,17 @@ timezone: Portugal
 
 title: João Rodrigues # the main title
 
-tagline: Software Engineer | Critical Systems student | Motorcycle enthusiast   # it will display as the subtitle
+tagline: Software Engineer | Critical Systems student | Motorcycle enthusiast # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Personal projects page and blog
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://TheWolf81.github.io"
+url: "https://joaorodrigues.github.io"
 
 github:
-  username: TheWolf81 # change to your GitHub username
+  username: joaorodrigues81 # change to your GitHub username
 
 #twitter:
 #  username: twitter_username # change to your Twitter username
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: '/assets/other/icon.jpg'
+avatar: "/assets/other/icon.jpg"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
